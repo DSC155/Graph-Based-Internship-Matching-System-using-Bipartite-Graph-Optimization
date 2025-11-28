@@ -1,0 +1,31 @@
+name,skills,positions
+Company_1,"python, ml, ai",1
+Company_2,"react, javascript, frontend",3
+Company_3,"flutter, dart, firebase",1
+Company_4,"python, django, sql",1
+Company_5,"aws, cloud, devops",1
+Company_6,"python, nlp, transformers",1
+Company_7,"java, spring boot, sql",2
+Company_8,"html, css, react",1
+Company_9,"python, flask, api",1
+Company_10,"python, keras, tensorflow",1
+Company_11,"python, data science, pandas",2
+Company_12,"react, nodejs, express",2
+Company_13,"flutter, firebase, ui/ux",2
+Company_14,"python, opencv, computer vision",2
+Company_15,"aws, docker, linux",1
+Company_16,"java, backend, sql",1
+Company_17,"python, flask, docker",1
+Company_18,"python, ai, deep learning",1
+Company_19,"react, javascript, nextjs",1
+Company_20,"python, sql, pandas",3
+Company_21,"aws, devops, cloud",1
+Company_22,"python, flask, sql",1
+Company_23,"flutter, dart, firebase",2
+Company_24,"html, css, figma, design",1
+Company_25,"python, tensorflow, ai",1
+Company_26,"java, spring, backend",2
+Company_27,"python, keras, ml",2
+Company_28,"aws, cloud, linux",1
+Company_29,"python, flask, api",1
+Company_30,"react, tailwind, nextjs",2
